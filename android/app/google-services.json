@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "278275513894",
+    "project_id": "sunnah-ea9b7",
+    "storage_bucket": "sunnah-ea9b7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278275513894:android:7c9a406502ded2601110e7",
+        "android_client_info": {
+          "package_name": "com.sunnah.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278275513894-kmh40cqdtt2kfsd8r4vssaent5ce934d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBZmIiPtNzprSHceBSAziNJ4Cj4rKLyVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278275513894-kmh40cqdtt2kfsd8r4vssaent5ce934d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "278275513894-tmsjap1b2ee8cqba22573ehucri00jem.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sunnah.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
